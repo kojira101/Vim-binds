@@ -1,0 +1,3 @@
+nmap ; :
+inoremap jj <Esc>
+
